@@ -8,17 +8,17 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/activitylibrary" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/jokelibrary" />
+            <option value="$PROJECT_DIR$/jokeandroidlibrary" />
+            <option value="$PROJECT_DIR$/jokejavalibrary" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/activitylibrary" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/jokelibrary" />
+            <option value="$PROJECT_DIR$/jokeandroidlibrary" />
+            <option value="$PROJECT_DIR$/jokejavalibrary" />
           </set>
         </option>
       </GradleProjectSettings>
