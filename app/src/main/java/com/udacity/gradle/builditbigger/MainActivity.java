@@ -94,6 +94,7 @@ public class MainActivity extends AppCompatActivity {
 
         @Override
         protected void onPostExecute(String result) {
+            assert result != null && !result.isEmpty();
             mJoke = result;
         }
     }
